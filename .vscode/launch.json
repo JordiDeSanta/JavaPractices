@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Practice07",
+            "request": "launch",
+            "mainClass": "Practice07",
+            "projectName": "Java_57a76ab1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Practice06",
+            "request": "launch",
+            "mainClass": "Practice06",
+            "projectName": "Java_57a76ab1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Practice05",
+            "request": "launch",
+            "mainClass": "Practice05",
+            "projectName": "Java_57a76ab1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Practice01<Java_57a76ab1>",
+            "request": "launch",
+            "mainClass": "Practice01",
+            "projectName": "Java_57a76ab1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Practice02<Java_57a76ab1>",
+            "request": "launch",
+            "mainClass": "Practice02",
+            "projectName": "Java_57a76ab1"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Practice03<Java_57a76ab1>",
+            "request": "launch",
+            "mainClass": "Practice03",
+            "projectName": "Java_57a76ab1"
+        }
+    ]
+}
